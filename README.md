@@ -218,7 +218,7 @@ git clone https://github.com/fbaligand/kibana-enhanced-table.git enhanced-table
 ``` bash
 cd kibana
 yarn kbn bootstrap
-cd plugins/kibana-enhanced-table
+cd plugins/enhanced-table
 yarn install
 yarn start
 ```
